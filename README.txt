@@ -23,6 +23,7 @@ MCU APk:
  * Open Application and select whether to connect via Bluetooth, IP address, or go to File View
 	* For Bluetooth
 		* Select device from list to connect to
+		* Bluetooth must be in COM port 6
 	* For IP
 		* Connect to wireless network
 		* Input IP address for desired G4 device
