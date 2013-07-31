@@ -10,13 +10,15 @@ MCU APk:
  * Please make sure if you have previously downloaded the application, to remove all the cache and preferences associated with
    the old file before instalation of the file located in the link below.
 
+ * Must be running Android version 4.0 or later
+
  * To connect to G4 device via MCU APK must have one of the following:
 	* Correct Bluetooth dongle:
 	  IOGEAR USB Adapter (model #GBU321)
 	* IP address/Port number for desired G4 device
 
  * Download the most up to date version of MCU APK:
-    https://abb-interns-2013.googlecode.com/hg-history/2e1252c8dc3707cff39bface90b066665bb6b2a9/G4_MCCUv164.apk
+    https://abb-interns-2013.googlecode.com/hg-history/2da431b1c01ed32e82fec592223d4086567e2909/G4_MCCUv164.apk
 	* If downloading from PC
 		* First download a "File Viewer" from the Google Play store then copy the APK file to the Android Device's SD card. 
 		* The MCU APK can be opened from a "File Viewer" application.
