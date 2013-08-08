@@ -18,7 +18,7 @@ MCU APk:
 	* IP address/Port number for desired G4 device
 
  * Download the most up to date version of MCU APK:
-    https://abb-interns-2013.googlecode.com/hg-history/aba86fb1a5f01d67fae66e2acfdb9a60302d4e9d/G4_MCCUv173.apk
+    https://abb-interns-2013.googlecode.com/hg-history/d0866c81e6d80749df45d2fe50886b3dec61d147/G4_MCCUv174.apk
 	* If downloading from PC
 		* First download a "File Viewer" from the Google Play store then copy the APK file to the Android Device's SD card. 
 		* The MCU APK can be opened from a "File Viewer" application.
