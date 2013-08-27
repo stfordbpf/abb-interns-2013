@@ -6,9 +6,9 @@ This app is meant to be a Mobile Collection Unit for the G4 line of ABB Totalflo
 REQUIREMENTS
 ============
 
-MCU APk:
+MCU APK:
  * Please make sure if you have previously downloaded the application, to remove all the cache and preferences associated with
-   the old file before instalation of the file located in the link below.
+   the old file before installation of the file located in the link below.
 
  * Must be running Android version 4.0 or later
 
@@ -27,7 +27,8 @@ MCU APk:
 
  * Open Application and select whether to connect via Bluetooth, IP address, or go to File View
 	* For Bluetooth
-		* Select device from list to connect to
+                * Before opening the App, make sure that you "Pair" with the G4 device from the Android Device's Bluetooth settings
+                * Open MCU App and Select device from list to connect to
 		* Bluetooth must be in COM port 6
 	* For IP
 		* Connect to wireless network
