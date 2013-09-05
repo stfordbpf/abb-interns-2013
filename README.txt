@@ -38,6 +38,7 @@ MCU APK:
 	- Clicking tabs and buttons
 	- Using settings/action bar
 	- Clicking back button to navigate to the previous page
+      - Swipe finger to the right from the left side of the screen when on connection page to load previous connections
 	
  * To exit the MCU APK, press the home button on the Android device.
 	
